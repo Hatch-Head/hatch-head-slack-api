@@ -41,6 +41,15 @@ export default (req, res) => {
               "text": "*Bank details* BSB: 062692 ACC: 4377 1135"
             }
           ]
+        },
+        {
+         "type": "context",
+          "elements": [
+            {
+             "type":"mrkdwn",
+              "text": "*DUNS Number* 748570578"
+            }
+           ]
         }
       ]
     }
